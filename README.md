@@ -1,16 +1,24 @@
-# flutterapp
+# MarvelApp
+How to Run 
 
-marvell_app
+**Step 1:**
 
-## Getting Started
+Download or clone this repository.
 
-This project is a starting point for a Flutter application.
+**Step 2:**
+You must use your own publick and private keys in lib/providers/marvel_heroes.dart
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Step 3:**
+Start android emulator or connect your phone with enabled USB debugging and allow it.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Step 4:**
+Go to project root and execute the following command in console : 
+
+```
+flutter run
+```
+
+> **NOTE** During executing this command you have to approve the installation if you use phone
+
+
